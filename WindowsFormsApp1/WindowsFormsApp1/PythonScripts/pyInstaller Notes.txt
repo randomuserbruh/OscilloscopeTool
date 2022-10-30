@@ -1,0 +1,4 @@
+-- TO COMPILE --
+pyinstaller -F file.py
+
+exe found in "dist" folder
