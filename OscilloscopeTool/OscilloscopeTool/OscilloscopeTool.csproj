@@ -87,7 +87,7 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
-    <Compile Include="Utilities\Class1.cs" />
+    <Compile Include="Utilities\Plot.cs" />
     <Compile Include="Utilities\Devices.cs" />
     <Compile Include="Utilities\FolderPicker.cs" />
     <EmbeddedResource Include="Form1.resx">
