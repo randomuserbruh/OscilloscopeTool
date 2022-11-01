@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32929.385
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "OscilloscopeTool", "OscilloscopeTool\OscilloscopeTool.csproj", "{855B0633-C549-4CF1-A037-9FE45DAE0558}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{855B0633-C549-4CF1-A037-9FE45DAE0558}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{855B0633-C549-4CF1-A037-9FE45DAE0558}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{855B0633-C549-4CF1-A037-9FE45DAE0558}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{855B0633-C549-4CF1-A037-9FE45DAE0558}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {30502BCA-811B-4D7F-8116-8A62BA72E8B6}
+	EndGlobalSection
+EndGlobal
